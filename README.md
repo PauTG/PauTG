@@ -3,6 +3,7 @@
 - 📍 I live in Rosario, Santa Fe, Argentina
 - 💻 I'm working in a personal project
 - 💌 Email --> PaulaG@itdeveloper.ar
+- 🦋 Portfolio --> PaulaG.dev.ar
 
 # Skills 🦖:
 - <b><i>HTML</i></b>
