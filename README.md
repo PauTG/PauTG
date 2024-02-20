@@ -1,8 +1,7 @@
 # Hi everyone 👋🏻
 
-<video width="320" height="240">
-  <source src="./img/Paula G.mp4" type="video/mp4">
-  </video>
+![Demostración](./img/Paula%20G.gif)
+
 
 
 - 🌺 I’m Pawli 
