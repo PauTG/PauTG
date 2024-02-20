@@ -1,6 +1,6 @@
 # Hi everyone 👋🏻
 
-![Demostración](./img/Paula%20G.gif)
+![Demostración](./img/Paula%20G.gif){ width="100%" }
 
 
 
