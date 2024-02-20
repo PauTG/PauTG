@@ -1,7 +1,6 @@
 # Hi everyone 👋🏻
 
-<img src="./img/Paula G.png" alt="Paula G logo" style="max-width:100%; overflow-clip-margin: content-box;
-    overflow: clip;">
+<img src="./img/Paula G.jpg" alt="Paula G logo" style="max-width:100%;">
 
 - 🌺 I’m Pawli
 - 📍 I live in Rosario, Santa Fe, Argentina
