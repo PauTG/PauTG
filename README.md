@@ -1,7 +1,7 @@
 # Hi everyone 👋🏻
 
 <video width="320" height="240">
-  <source src="./img/Paula G.gif" type="video/mp4">
+  <source src="./img/Paula G.mp4" type="video/mp4">
   </video>
 
 
