@@ -13,4 +13,6 @@
 - <b><i>HTML</i></b>
 - <b><i>CSS</i></b>
 - <b><i>JS</i></b>
+- <b><i>REACT</i></b>
+- <b><i>REACT NATIVE</i></b>
 - <b><i>TAILWIND</i></b>
