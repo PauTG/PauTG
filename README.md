@@ -5,7 +5,7 @@
 - 🌺 I’m *Pawli*
 - 📍 I live in Rosario, Santa Fe, Argentina
 - 💻 I'm working in a project (No country)
-- 💌 E-mail --> contacto@paulag.tech
+- 💌 E-mail --> paulatgnz@gmail.com
 - 🦋 Portfolio --> https://paulag.tech
 
 # Skills 🦖:
