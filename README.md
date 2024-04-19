@@ -1,4 +1,4 @@
-# Hola everyone :octocat: 
+# Hola everyone 🔮
 
 <img src="./img/paulaglogo.png" alt="Paula G" style="max-width:100%;">
 
