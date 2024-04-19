@@ -1,12 +1,12 @@
-# Hi everyone 👋🏻
+# Hola everyone 👋🏻
 
 <img src="./img/paulaglogo.png" alt="Paula G" style="max-width:100%;">
 
-- 🌺 I’m *Pawli*
-- 📍 I live in Rosario, Santa Fe, Argentina
-- 💻 I'm working in a project personal
-- 💌 E-mail --> paulatgnz@gmail.com
-- 🦋 Portfolio --> https://paulag.tech
+🌺 I’m *Pawli*
+📍 I live in Rosario, Santa Fe, Argentina
+💻 I'm working in a project personal
+💌 E-mail --> paulatgnz@gmail.com
+🦋 Portfolio --> https://paulag.tech
 
 # Skills 🦖:
 ![HTML](https://img.shields.io/badge/-HTML-b693aa?style=for-the-badge&logo=HTML5)
