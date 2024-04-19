@@ -3,9 +3,9 @@
 <img src="./img/paulaglogo.png" alt="Paula G" style="max-width:100%;">
 
 🌺 I’m *Pawli* </br>
-📍 I live in Rosario, Santa Fe, Argentina
-💻 I'm working in a project personal
-💌 E-mail --> paulatgnz@gmail.com
+📍 I live in Rosario, Santa Fe, Argentina </br>
+💻 I'm working in a project personal </br>
+💌 E-mail --> paulatgnz@gmail.com </br>
 🦋 Portfolio --> https://paulag.tech
 
 # Skills 🦖:
