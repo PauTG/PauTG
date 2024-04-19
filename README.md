@@ -9,7 +9,7 @@
 - 🦋 Portfolio --> https://paulag.tech
 
 # Skills 🦖:
-![HTML](https://img.shields.io/badge/-HTML-ebc2c1?style=for-the-badge&logo=HTML5)
+![HTML](https://img.shields.io/badge/-HTML-7c5e72?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-ebc2c1?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ebc2c1?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-ebc2c1?style=for-the-badge&logo=react)
