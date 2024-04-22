@@ -14,3 +14,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-b693aa?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-b693aa?style=for-the-badge&logo=react)
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-b693aa?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
