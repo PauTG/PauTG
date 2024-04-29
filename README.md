@@ -1,16 +1,21 @@
-# Hi everyone 👋🏻
+# Hola everyone 🔮
 
 <img src="./img/banner.png" alt="Paula G" style="max-width:100%;">
 
-- 🌺 I’m *Pawli*
-- 📍 I live in Rosario, Santa Fe, Argentina
-- 💻 I'm working in a project (No country)
-- 💌 E-mail --> contacto@paulag.tech
-- 🦋 Portfolio --> https://paulag.tech
+🌺 I’m *Pawli* </br>
+📍 I live in Rosario, Santa Fe, Argentina </br>
+💻 I'm working in a project personal </br>
+💌 E-mail --> paulatgnz@gmail.com </br>
+🦋 Portfolio --> https://paulag.tech
 
 # Skills 🦖:
+![HTML](https://img.shields.io/badge/-HTML-b693aa?style=for-the-badge&logo=HTML5)
 
-- <b><i>HTML</i></b>
-- <b><i>CSS</i></b>
-- <b><i>JS</i></b>
-- <b><i>TAILWIND</i></b>
+![CSS](https://img.shields.io/badge/-CSS-b693aa?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-b693aa?style=for-the-badge&logo=javascript)
+
+![React](https://img.shields.io/badge/-React-b693aa?style=for-the-badge&logo=react)
+
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-b693aa?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
