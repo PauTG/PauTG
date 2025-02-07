@@ -6,7 +6,7 @@
 📍 I live in Rosario, Santa Fe, Argentina </br>
 💻 QA </br>
 💌 E-mail --> paulatgnz@gmail.com </br>
-🦋 Portfolio --> https://paulag.tech
+🦋 Portfolio --> https://paulag.dev.ar/
 
 # Skills 🦖:
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
